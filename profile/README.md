@@ -16,7 +16,7 @@ Our HIPAA-compliant solution streamlines patient management, insurance claims, a
 - **Claims Processing**: Automated validation and error prevention
 - **Analytics & Reporting**: Data-driven insights for practice optimization
 
-## 🌈 Contribution Guidelines
+##  Contribution Guidelines
 
 We welcome contributions to our open source components! Here's how you can help:
 
